@@ -1,0 +1,9 @@
+{
+ "transfer_buffer_size":"8192",
+ "encrypt_method":"aes-256-cfb",
+ "encrypt_password":"33333",
+ "proxy_server_port":"50013",
+ "proxy_server_ip":"103.1.1.1",
+ "client_listen_ip":"127.0.0.1",
+ "client_listen_port":"8011"
+}
